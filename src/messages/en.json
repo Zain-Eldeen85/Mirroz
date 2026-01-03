@@ -1,0 +1,150 @@
+
+{
+  "HomePage": {
+    "h1": "Book Decorative Mirrors Online",
+    "h2": "Elegant Mirrors for Modern Spaces",
+    "cta": "Book Now",
+    "allProducts": "All Products",
+    "seeMore": "See More"
+  },
+  "MirrorDetailsPage": {
+    "h1": "Mirror Details",
+    "h2": "Design, Size & Availability",
+    "bookCta": "Book This Mirror"
+  },
+  "BookingPage": {
+    "h1": "Book Your Mirror",
+    "h2": "Choose Date & Time",
+    "date": "Date",
+    "time": "Time Slot",
+    "quantity": "Quantity",
+    "submit": "Confirm Booking"
+  },
+  "Header": {
+    "home": "Home",
+    "mirrors": "Mirrors",
+    "categories": "Categories",
+    "reviews": "Reviews",
+    "faq": "FAQ",
+    "products": "Products",
+    "contact": "Contact Us"
+  },
+  "MirrorCard": {
+    "viewDetails": "View Details",
+    "startingAt": "Starting at"
+  },
+  "MirrorDetails": {
+    "specifications": "Specifications",
+    "shape": "Shape",
+    "dimensions": "Dimensions",
+    "frame": "Frame",
+    "price": "Price"
+  },
+  "BookingForm": {
+    "selectDate": "Pick a date",
+    "noSlots": "No available slots",
+    "selectMirrorPrompt": "Please select a mirror first"
+  },
+  "BookingDetailsForm": {
+    "h2": "Complete Your Booking",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "address": "Street Address",
+    "city": "City",
+    "country": "Country",
+    "paymentMethod": "Payment Method",
+    "cashOnDelivery": "Cash on Delivery",
+    "visa": "Visa",
+    "fawry": "Fawry",
+    "wallet": "Wallet",
+    "back": "Back",
+    "completeBooking": "Complete Booking"
+  },
+  "Footer": {
+    "products": "Products",
+    "categories": "Categories",
+    "company": "Company",
+    "reviews": "Reviews",
+    "support": "Support",
+    "faq": "FAQ",
+    "legal": "Legal",
+    "privacy": "Privacy",
+    "policies": "Policies",
+    "contact": "Contact Us"
+  },
+  "ProductsPage": {
+    "h2": "Explore our full collection of exquisite mirrors.",
+    "searchPlaceholder": "Search for mirrors...",
+    "allShapes": "All",
+    "noResults": "No mirrors found matching your criteria.",
+    "priceRange": "Price Range",
+    "estimatedPrice": "Estimated Price",
+    "onSale": "On Sale"
+  },
+  "CategoriesPage": {
+    "h2": "Browse mirrors by category to find your perfect match."
+  },
+  "ContactPage": {
+    "h1": "Contact Us",
+    "h2": "Have a question or feedback? We'd love to hear from you.",
+    "name": "Name",
+    "namePlaceholder": "Your Name",
+    "email": "Email",
+    "emailPlaceholder": "Your Email Address",
+    "message": "Message",
+    "messagePlaceholder": "Your message...",
+    "submit": "Send Message"
+  },
+  "OrderSummary": {
+    "title": "Order Summary",
+    "item": "Item",
+    "quantity": "Quantity",
+    "price": "Price",
+    "subtotal": "Subtotal",
+    "deliveryFee": "Delivery Fee",
+    "serviceFee": "Service Fee",
+    "total": "Total"
+  },
+  "Offers": {
+    "title": "Special Offers",
+    "seasonal_10_off": {
+      "title": "View Products On Sale",
+      "description": "Check out all our products that are currently on sale.",
+      "cta": "See Sale Items"
+    },
+    "first_time_free_delivery": {
+      "title": "First Time Booker?",
+      "description": "Enjoy free delivery on your first booking with us.",
+      "cta": "Book Now"
+    },
+    "bundle_deal": {
+      "title": "Bundle & Save 15%",
+      "description": "Get 15% off when you purchase two or more selected mirrors.",
+      "cta": "View Bundles"
+    },
+    "clearance": {
+      "title": "Clearance Sale: 25% Off",
+      "description": "Save big on last-chance items. Up to 25% off sunburst mirrors.",
+      "cta": "Shop Clearance"
+    },
+    "site_wide_5_off": {
+      "title": "5% Off All Mirrors!",
+      "description": "Enjoy an additional 5% discount on our entire collection, even on sale items!",
+      "cta": "Shop Now"
+    },
+    "flash_sale_20_off": {
+      "title": "Flash Sale! 20% Off",
+      "description": "For a limited time, get 20% off all Arched and Oval mirrors.",
+      "cta": "Shop the Sale"
+    }
+  },
+  "ReviewsPage": {
+    "h1": "What Our Customers Say",
+    "h2": "Real reviews from real people who love their new mirrors.",
+    "seeMore": "See All Reviews"
+  },
+  "FlashSale": {
+    "ended": "Sale Ended"
+  }
+}

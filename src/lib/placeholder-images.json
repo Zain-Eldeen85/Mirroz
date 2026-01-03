@@ -1,0 +1,70 @@
+{
+  "placeholderImages": [
+    {
+      "id": "round-mirror",
+      "description": "A modern round mirror with a thin black frame.",
+      "imageUrl": "https://images.unsplash.com/photo-1619378396315-8803137a81ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxyb3VuZCUyMG1pcnJvcnxlbnwwfHx8fDE3NjcwODQ5NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "round mirror"
+    },
+    {
+      "id": "rectangle-mirror",
+      "description": "An elegant rectangular mirror with a gold frame.",
+      "imageUrl": "https://images.unsplash.com/photo-1560950893-f2096fac3d88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxyZWN0YW5nbGUlMjBtaXJyb3J8ZW58MHx8fHwxNzY3MDg0OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rectangle mirror"
+    },
+    {
+      "id": "oval-mirror",
+      "description": "A minimalist oval mirror with no frame.",
+      "imageUrl": "https://images.unsplash.com/photo-1732936776745-34e86a7ec4cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxvdmFsJTIwbWlycm9yfGVufDB8fHx8MTc2NzA4NDk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "oval mirror"
+    },
+    {
+      "id": "arched-mirror",
+      "description": "A stylish arched mirror, perfect for entryways.",
+      "imageUrl": "https://images.unsplash.com/photo-1763485956350-1b7e230ad578?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhcmNoZWQlMjBtaXJyb3J8ZW58MHx8fHwxNzY3MDg0OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "arched mirror"
+    },
+    {
+      "id": "sunburst-mirror",
+      "description": "A decorative sunburst mirror with a golden finish.",
+      "imageUrl": "https://images.unsplash.com/photo-1693600351323-0e4d63887620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzdW5idXJzdCUyMG1pcnJvcnxlbnwwfHx8fDE3NjcwODQ5NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sunburst mirror"
+    },
+    {
+      "id": "full-length-mirror",
+      "description": "A large full-length mirror with a wooden frame.",
+      "imageUrl": "https://images.unsplash.com/photo-1758974835125-83ba4f9d7e25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmdWxsLWxlbmd0aCUyMG1pcnJvcnxlbnwwfHx8fDE3NjcwOD45NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "full-length mirror"
+    },
+    {
+      "id": "offer-banner-1",
+      "description": "Elegant modern living room with designer furniture and decor",
+      "imageUrl": "https://images.unsplash.com/photo-1556912172-45b7abe8b7e1?w=1920&h=1080&fit=crop&crop=edges",
+      "imageHint": "modern living room interior"
+    },
+    {
+      "id": "offer-banner-2",
+      "description": "Stylish entryway with console and decorative mirror",
+      "imageUrl": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1920&h=1080&fit=crop&crop=edges",
+      "imageHint": "home entryway interior"
+    },
+    {
+      "id": "offer-banner-3",
+      "description": "Luxurious bedroom with elegant decor and warm lighting",
+      "imageUrl": "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=1920&h=1080&fit=crop&crop=edges",
+      "imageHint": "luxury bedroom interior"
+    },
+    {
+      "id": "offer-banner-4",
+      "description": "Modern bathroom with minimalist design and premium finishes",
+      "imageUrl": "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=1920&h=1080&fit=crop&crop=edges",
+      "imageHint": "modern bathroom interior"
+    },
+    {
+      "id": "flash-sale-banner",
+      "description": "Stunning home interior showcasing premium decor and design",
+      "imageUrl": "https://images.unsplash.com/photo-1600210492493-0946911123ea?w=1920&h=1080&fit=crop&crop=edges",
+      "imageHint": "premium home interior"
+    }
+  ]
+}
