@@ -10,8 +10,6 @@
 !.yarn/releases
 !.yarn/versions
 
-# testing
-/coverage
 
 # next.js
 /.next/
@@ -30,16 +28,9 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# vercel
-.vercel
-
 # typescript
 *.tsbuildinfo
 next-env.d.ts
 
 .genkit/*
 .env*
-
-# firebase
-firebase-debug.log
-firestore-debug.log
