@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { getMirrorById, mirrors, type Mirror } from '@/lib/mirrors';
 import { getDictionary } from '@/lib/get-dictionary';
-import { type Locale } from '@/i18n';
+import { i18n, type Locale } from '@/i18n';
 import { Button } from '@/components/ui/button';
 import { MirrorPreview } from '@/components/mirror/mirror-preview';
 import { GlassCard } from '@/components/ui/glass-card';
@@ -16,9 +16,18 @@ type Props = {
 };
 
 export async function generateStaticParams() {
-  return mirrors.map((mirror) => ({
-    id: mirror.id,
-  }));
+  const params: { locale: string; id: string }[] = [];
+  
+  for (const locale of i18n.locales) {
+    for (const mirror of mirrors) {
+      params.push({
+        locale,
+        id: mirror.id,
+      });
+    }
+  }
+  
+  return params;
 }
 
 export default async function MirrorDetailsPage({ params, searchParams }: Props) {
