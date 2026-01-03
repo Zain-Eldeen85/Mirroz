@@ -12,7 +12,7 @@ import { offers } from '@/lib/offers';
 
 type Props = {
   params: Promise<{ id: string; locale: Locale }>;
-  searchParams: { [key: string]: string | string[] | undefined };
+  searchParams: Promise<{ [key: string]: string | string[] | undefined }>;
 };
 
 export async function generateStaticParams() {
@@ -23,9 +23,10 @@ export async function generateStaticParams() {
 
 export default async function MirrorDetailsPage({ params, searchParams }: Props) {
   const { id, locale } = await params;
+  const resolvedSearchParams = await searchParams;
   const mirror = getMirrorById(id);
   const dictionary = await getDictionary(locale);
-  const offerId = searchParams.offer as string;
+  const offerId = resolvedSearchParams.offer as string;
   const activeOffer = offers.find(o => o.id === offerId);
 
   if (!mirror) {
